@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/charudatts/Documents/CppWorkspace/.output/firstprogram'
+relocations:
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CA5, symSize: 0x1BB }
+  - { offsetInCU: 0x6806, offset: 0x6806, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x157F8, symBinAddr: 0x10000800F, symSize: 0x0 }
+  - { offsetInCU: 0x6B0C, offset: 0x6B0C, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x239, symBinAddr: 0x100003F1B, symSize: 0x0 }
+  - { offsetInCU: 0x6B26, offset: 0x6B26, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x23A, symBinAddr: 0x100003F1C, symSize: 0x0 }
+  - { offsetInCU: 0x6B40, offset: 0x6B40, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x23B, symBinAddr: 0x100003F1D, symSize: 0x0 }
+  - { offsetInCU: 0x6B6E, offset: 0x6B6E, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_firstprogram.cpp, symObjAddr: 0x1F4, symBinAddr: 0x100003E99, symSize: 0xB }
+  - { offsetInCU: 0x6B92, offset: 0x6B92, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x1BB, symBinAddr: 0x100003E60, symSize: 0x39 }
+  - { offsetInCU: 0x6B9A, offset: 0x6B9A, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_firstprogram.cpp, symObjAddr: 0x1F4, symBinAddr: 0x100003E99, symSize: 0xB }
+  - { offsetInCU: 0x6B8E, offset: 0x6B8E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CA5, symSize: 0x1BB }
+  - { offsetInCU: 0x6B96, offset: 0x6B96, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x1BB, symBinAddr: 0x100003E60, symSize: 0x39 }
+...
